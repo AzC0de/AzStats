@@ -1,0 +1,10 @@
+formats:
+  kills: "%s: %d kills (Rank #%d)"
+  mobkills: "%s: %d mob kills (Rank #%d)"
+  deaths: "%s: %d deaths (Rank #%d)"
+  playtime: "%s: %d hours played (Rank #%d)"
+  no_player: "N/A"
+settings:
+  daily_reset_time: "00:00" # Formato: HH:mm
+  monthly_reset_day: 1 # Día del mes en que se reinicia el ciclo mensual
+players: {}

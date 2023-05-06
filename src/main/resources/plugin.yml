@@ -1,0 +1,7 @@
+name: AzStats
+version: 1.0.0
+main: us.azcode.AzStats.StatsPlugin
+author: Azcode
+api-version: 1.19
+description: A Minecraft player statistics plugin with PlaceholderAPI integration.
+depend: [PlaceholderAPI]
