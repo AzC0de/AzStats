@@ -64,6 +64,9 @@ public class StatsPlaceholderExpansion extends PlaceholderExpansion {
             case "monthly":
                 currentCycleStart = getCurrentMonthlyCycleStart();
                 break;
+            case "alltime":
+                currentCycleStart = Instant.MIN;
+                break;
             default:
                 return null;
         }
