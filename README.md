@@ -28,7 +28,7 @@ Un plugin de estadísticas para jugadores en Minecraft, compatible con Placehold
 
 Para utilizar las estadísticas en su servidor, utilice los marcadores de posición de PlaceholderAPI con el siguiente formato:
 
-%playerstats_<stat><rank><timeRange>%
+%playerstats_<stat>_<rank>_<timeRange>%
 
 
 - `<stat>` puede ser: `kills`, `mobkills`, `deaths` o `playtime`
